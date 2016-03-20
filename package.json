@@ -1,0 +1,19 @@
+{
+  "name": "bet-seed",
+  "version": "0.0.1",
+  "description": "BETool seed module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BETool/bet-seed.git"
+  },
+  "author": "Mikhail Garbuzov <madmxg@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/BETool/bet-seed/issues"
+  },
+  "homepage": "https://github.com/BETool/bet-seed"
+}
